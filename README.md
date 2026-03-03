@@ -3,4 +3,4 @@ my first repository
 Hallo 
 I am Pranjali Kishor Patil
 i am 23 yrs old and doing M.Sc. Geoinformatics 
-Indian Institue of Remote Sensing, Dehradun
+Have a nice day
